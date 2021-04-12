@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39602d40-787b-4e36-bc9c-2a3ad8763807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/helper/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/helper/chromedriver_89.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -35,9 +33,12 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/helper" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\resources" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\java\helper" />
     </key>
