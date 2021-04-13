@@ -23,11 +23,11 @@ public class SampleTestCase {
         String expectedTitle="Google";
         driver=helper.driver.get();
         driver.get("https://www.google.com");
-        try {
-            Thread.sleep(10000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+//        try {
+//            Thread.sleep(10000);
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        }
         String actualTitle=driver.getTitle();
         Assert.assertEquals(expectedTitle,actualTitle,"Title Not Matching");
 }

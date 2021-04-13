@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39602d40-787b-4e36-bc9c-2a3ad8763807" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helper/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/seleniumtesting.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helper/Helper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
