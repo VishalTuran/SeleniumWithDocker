@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39602d40-787b-4e36-bc9c-2a3ad8763807" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helper/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/seleniumtesting.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helper/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +39,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/helper" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -55,10 +64,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SampleTestCase.assertTitle">
+  <component name="RunManager" selected="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml">
     <configuration name="Helper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helper.Helper" />
       <module name="seleniumtesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumtesting" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/sampletestcase.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" />
         <item itemvalue="TestNG.SampleTestCase.assertTitle" />
         <item itemvalue="Application.Helper" />
       </list>
@@ -119,7 +139,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

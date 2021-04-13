@@ -33,7 +33,7 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>sampletestcase.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/sampletestcase.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

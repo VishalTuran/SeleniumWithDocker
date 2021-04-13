@@ -2,6 +2,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Practice Suite">
     <test name="Test Sample">
+        <groups>
+            <run>
+
+            </run>
+        </groups>
         <classes>
             <class name="SampleTestCase"/>
         </classes>
