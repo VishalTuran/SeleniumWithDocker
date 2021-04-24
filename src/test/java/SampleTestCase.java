@@ -21,7 +21,7 @@ public class SampleTestCase {
     @Test
     public void assertTitle(){
         String expectedTitle="Google";
-        driver=helper.driver.get();
+        driver=helper.driver;
         driver.get("https://www.google.com");
 //        try {
 //            Thread.sleep(10000);

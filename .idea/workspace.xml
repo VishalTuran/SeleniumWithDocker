@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39602d40-787b-4e36-bc9c-2a3ad8763807" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helper/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helper/Helper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,7 +61,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml">
+  <component name="RunManager" selected="TestNG.SampleTestCase.assertTitle">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="seleniumtesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Helper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helper.Helper" />
       <module name="seleniumtesting" />
@@ -109,8 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" />
         <item itemvalue="TestNG.SampleTestCase.assertTitle" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" />
         <item itemvalue="Application.Helper" />
       </list>
     </recent_temporary>
