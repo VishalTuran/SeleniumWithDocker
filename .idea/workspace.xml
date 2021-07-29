@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39602d40-787b-4e36-bc9c-2a3ad8763807" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helper/chromedriver_linux" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/helper/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helper/Helper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/helper/chromedriver_89.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/helper/chromedriver_win.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SampleTestCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/helper/Helper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SampleTestCase.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +41,12 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\java\helper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\java\helper" />
+      <recent name="C:\Users\vt-pc\IdeaProjects\seleniumtesting\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SampleTestCase.assertTitle">
+  <component name="RunManager" selected="TestNG.SampleTestCase.assertFacebookTitle">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="seleniumtesting" />
@@ -105,6 +105,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SampleTestCase.assertFacebookTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumtesting" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTestCase" />
+      <option name="METHOD_NAME" value="assertFacebookTitle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SampleTestCase.assertTitle" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumtesting" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,9 +131,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SampleTestCase.assertFacebookTitle" />
+        <item itemvalue="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" />
         <item itemvalue="TestNG.SampleTestCase.assertTitle" />
         <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="TestNG.C:/Users/vt-pc/IdeaProjects/seleniumtesting/src/test/resources/sampletestcase.xml" />
         <item itemvalue="Application.Helper" />
       </list>
     </recent_temporary>

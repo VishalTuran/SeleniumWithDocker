@@ -1,6 +1,5 @@
 import helper.Helper;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
@@ -19,18 +18,22 @@ public class SampleTestCase {
     }
 
     @Test
-    public void assertTitle(){
-        String expectedTitle="Google";
-        driver=helper.driver;
+    public void assertGoogleTitle() {
+        String expectedTitle = "Google";
+        driver = helper.driver;
         driver.get("https://www.google.com");
-//        try {
-//            Thread.sleep(10000);
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
-        String actualTitle=driver.getTitle();
-        Assert.assertEquals(expectedTitle,actualTitle,"Title Not Matching");
-}
+        String actualTitle = driver.getTitle();
+        Assert.assertEquals(expectedTitle, actualTitle, "Title Not Matching");
+    }
+
+    @Test
+    public void assertFacebookTitle() {
+        String expectedTitle = "Facebook";
+        driver = helper.driver;
+        driver.get("https://www.facebook.com");
+        String actualTitle = driver.getTitle();
+        Assert.assertTrue(actualTitle.contains(expectedTitle), "Title Not Matching");
+    }
 
     @AfterClass
     public void tearDown(){
